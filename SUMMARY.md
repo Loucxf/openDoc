@@ -18,6 +18,8 @@
       * [🔍 Lucene](informatique/linux/apache/lucene.md)
     * [📊 La suite ELK](informatique/linux/la-suite-elk/README.md)
       * [💿 Installation](informatique/linux/la-suite-elk/installation.md)
+  * [⌨ Programmation](informatique/programmation/README.md)
+    * [👉 Langages compilés et interprétés](informatique/programmation/langages-compiles-et-interpretes.md)
 * [🎸 Guitare](guitare/README.md)
   * [🎼 Accords de base](guitare/accords-de-base.md)
   * [📔 Tablature](guitare/tablature.md)
