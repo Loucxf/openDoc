@@ -26,6 +26,3 @@
     * [📛 DNS](informatique/reseau/dns/README.md)
       * [🪙 Pointage DNS](informatique/reseau/dns/pointage-dns.md)
     * [🦝 TCP | UDP](informatique/reseau/tcp-or-udp.md)
-* [🎸 Guitare](guitare/README.md)
-  * [🎼 Accords de base](guitare/accords-de-base.md)
-  * [📔 Tablature](guitare/tablature.md)
