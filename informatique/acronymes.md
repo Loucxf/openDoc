@@ -77,6 +77,7 @@
 * NC : Network Computer
 * NFS : Network File System
 * NTFS : New Technology File System
+* NTP : Network Time Protocol
 * OCR : Optical Character Recognition
 * ODBC : Open Database Connectivity
 * OEM : Original Equipment Manufacturer
