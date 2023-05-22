@@ -72,6 +72,7 @@
 * MAN : Metropolitan Area Network
 * MIDI : Musical Instrument Digital Interface
 * MPEG : Moving Picture Experts Group
+* MTA : Mail Transfer Agent
 * NAT : Network Address Translation
 * NC : Network Computer
 * NFS : Network File System
