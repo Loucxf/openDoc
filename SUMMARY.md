@@ -22,6 +22,7 @@
   * [⌨ Programmation](informatique/programmation/README.md)
     * [👉 Langages compilés et interprétés](informatique/programmation/langages-compiles-et-interpretes.md)
   * [🕸 Réseau](informatique/reseau/README.md)
+    * [📋 Adresse IP](informatique/reseau/adresse-ip.md)
     * [🔁 NAT | PAT](informatique/reseau/nat-or-pat.md)
     * [📛 DNS](informatique/reseau/dns/README.md)
       * [♦ Explication générale](informatique/reseau/dns/explication-generale.md)
