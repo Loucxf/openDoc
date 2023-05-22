@@ -4,7 +4,7 @@ La commande "tail" est utilisée sous Linux et d'autres systèmes d'exploitation
 
 Syntaxe de base :
 
-```scss
+```bash
 tail [options] fichier(s)
 ```
 

@@ -4,7 +4,7 @@ La commande "head" est utilisée sous Linux et d'autres systèmes d'exploitation
 
 Syntaxe de base :
 
-```scss
+```bash
 head [options] fichier(s)
 ```
 
