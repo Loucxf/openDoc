@@ -24,6 +24,8 @@
   * [🕸 Réseau](informatique/reseau/README.md)
     * [🔁 NAT | PAT](informatique/reseau/nat-or-pat.md)
     * [📛 DNS](informatique/reseau/dns/README.md)
+      * [♦ Explication générale](informatique/reseau/dns/explication-generale.md)
+      * [🦇 TTL](informatique/reseau/dns/ttl.md)
       * [🪙 Pointage DNS](informatique/reseau/dns/pointage-dns.md)
     * [🦝 TCP | UDP](informatique/reseau/tcp-or-udp.md)
     * [✉ Messagerie électronique](informatique/reseau/messagerie-electronique/README.md)

@@ -101,6 +101,7 @@
 * RDBMS : Relational Database Management System
 * RGB : Red Green Blue
 * TCP/IP : Transmission Control Protocol/Internet Protocol
+* TTL : Time To Live
 * UI : User Interface
 * URL : Uniform Resource Locator
 * USB : Universal Serial Bus
