@@ -52,3 +52,5 @@
       * [Procédures stockées](informatique/bdd/sql/procedures-stockees.md)
       * [SHOW SLAVE STATUS](informatique/bdd/sql/show-slave-status.md)
       * [innodb\_buffer\_pool\_size](informatique/bdd/sql/innodb\_buffer\_pool\_size.md)
+  * [🍧 Serveur varnish](informatique/serveur-varnish.md)
+  * [🦐 HAProxy](informatique/haproxy.md)
