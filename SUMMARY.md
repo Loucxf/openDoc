@@ -5,6 +5,7 @@
   * [🖊 Acronymes](informatique/acronymes.md)
   * [📍 Modèle OSI](informatique/modele-osi.md)
   * [🐧 Linux](informatique/linux/README.md)
+    * [🎉 Partitions](informatique/linux/partitions.md)
     * [⚔ Commandes](informatique/linux/commandes/README.md)
       * [🐐 Regex](informatique/linux/commandes/regex.md)
       * [📃 ls](informatique/linux/commandes/ls.md)
