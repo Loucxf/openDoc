@@ -64,3 +64,6 @@
   * [🦐 HAProxy](informatique/haproxy.md)
   * [💡 IaC](informatique/iac.md)
   * [🏈 Ansible](informatique/ansible.md)
+* [🔢 Mathématiques](mathematiques/README.md)
+  * [📂 Suites](mathematiques/suites.md)
+  * [📊 Graphes](mathematiques/graphes.md)
