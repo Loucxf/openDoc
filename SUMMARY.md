@@ -67,3 +67,5 @@
 * [🔢 Mathématiques](mathematiques/README.md)
   * [📂 Suites](mathematiques/suites.md)
   * [📊 Graphes](mathematiques/graphes.md)
+  * [➡ Vecteurs](mathematiques/vecteurs.md)
+  * [⚙ Equation du second degré](mathematiques/equation-du-second-degre.md)
