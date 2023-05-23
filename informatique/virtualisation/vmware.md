@@ -1,0 +1,15 @@
+# 🍵 VMWare
+
+VMware est une société spécialisée dans la virtualisation des serveurs et des postes de travail. La virtualisation permet de créer et d'exécuter plusieurs machines virtuelles (VM) sur un seul ordinateur physique, ce qui offre de nombreux avantages en termes de consolidation des ressources, de flexibilité et de gestion simplifiée.
+
+Voici quelques concepts clés associés à VMware :
+
+1. Hyperviseur : VMware propose différents hyperviseurs qui permettent de créer et de gérer des machines virtuelles. L'un des produits phares de VMware est VMware ESXi, un hyperviseur de type 1 (bare-metal) qui s'installe directement sur le matériel physique. Il existe également VMware Workstation, un hyperviseur de type 2 qui s'exécute sur un système d'exploitation hôte existant.
+2. Machine virtuelle (VM) : Une machine virtuelle est une instance virtuelle d'un système d'exploitation et des ressources matérielles associées, qui s'exécute indépendamment sur un hôte physique. Chaque VM est isolée des autres et peut fonctionner avec son propre système d'exploitation, ses applications et ses configurations.
+3. Gestionnaire de VM : VMware propose vCenter Server, un outil de gestion centralisée qui permet de gérer et de surveiller plusieurs hôtes ESXi et les VM qui y sont exécutées. Il offre des fonctionnalités avancées telles que la migration en temps réel des VM, l'équilibrage de charge, la haute disponibilité, etc.
+4. Snapshot : Un snapshot est une capture instantanée de l'état d'une VM à un moment précis. Les snapshots permettent de sauvegarder l'état d'une VM avant d'apporter des modifications ou des mises à jour. En cas de problème, vous pouvez revenir à un snapshot précédent pour restaurer la VM dans son état antérieur.
+5. Migration : VMware propose des fonctionnalités de migration qui permettent de déplacer des VM d'un hôte à un autre sans interruption de service. Par exemple, vMotion permet de migrer une VM en cours d'exécution d'un hôte ESXi à un autre, tandis que Storage vMotion permet de déplacer les fichiers de disque d'une VM vers un autre emplacement de stockage.
+6. VDI (Virtual Desktop Infrastructure) : VMware propose des solutions de virtualisation du poste de travail, telles que VMware Horizon, qui permettent de fournir des postes de travail virtuels aux utilisateurs finaux. Cela permet une gestion centralisée, une flexibilité accrue et une sécurité renforcée pour les postes de travail.
+7. Cloud Computing : VMware propose également des solutions de virtualisation pour le cloud computing, telles que VMware vSphere, qui permettent de déployer des infrastructures virtualisées dans des environnements cloud privés, publics ou hybrides.
+
+Ces concepts vous donnent un aperçu de base de VMware et de ses fonctionnalités de virtualisation. VMware propose une gamme complète de produits et de solutions qui répondent aux besoins des entreprises de toutes tailles. Je vous recommande de consulter la documentation officielle de VMware pour obtenir plus d'informations détaillées sur les produits spécifiques qui vous intéressent.
