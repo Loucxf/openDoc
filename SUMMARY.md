@@ -48,3 +48,6 @@
       * [🕖 Évolution et tendances](informatique/reseau/messagerie-electronique/evolution-et-tendances.md)
   * [🧬 BDD](informatique/bdd/README.md)
     * [📄 Mysql et MariaDB](informatique/bdd/mysql-et-mariadb.md)
+    * [🍰 SQL](informatique/bdd/sql/README.md)
+      * [SHOW SLAVE STATUS](informatique/bdd/sql/show-slave-status.md)
+      * [innodb\_buffer\_pool\_size](informatique/bdd/sql/innodb\_buffer\_pool\_size.md)
