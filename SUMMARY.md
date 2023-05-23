@@ -6,6 +6,7 @@
   * [📍 Modèle OSI](informatique/modele-osi.md)
   * [🐧 Linux](informatique/linux/README.md)
     * [🎉 Partitions](informatique/linux/partitions/README.md)
+      * [🐓 resize2fs](informatique/linux/partitions/resize2fs.md)
       * [🐁 mount](informatique/linux/partitions/mount.md)
       * [🐒 mkfs](informatique/linux/partitions/mkfs.md)
       * [🦊 fstab](informatique/linux/partitions/fstab.md)
