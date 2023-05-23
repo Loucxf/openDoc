@@ -46,3 +46,5 @@
       * [🕔 Protocole MIME](informatique/reseau/messagerie-electronique/protocole-mime.md)
       * [🕕 Sécurité et authentification](informatique/reseau/messagerie-electronique/securite-et-authentification.md)
       * [🕖 Évolution et tendances](informatique/reseau/messagerie-electronique/evolution-et-tendances.md)
+  * [🧬 BDD](informatique/bdd/README.md)
+    * [📄 Mysql et MariaDB](informatique/bdd/mysql-et-mariadb.md)
