@@ -7,6 +7,7 @@
   * [🐧 Linux](informatique/linux/README.md)
     * [🎉 Partitions](informatique/linux/partitions.md)
     * [⚔ Commandes](informatique/linux/commandes/README.md)
+      * [🐞 lsblk](informatique/linux/commandes/lsblk.md)
       * [🐐 Regex](informatique/linux/commandes/regex.md)
       * [📃 ls](informatique/linux/commandes/ls.md)
       * [👂 Netstat](informatique/linux/commandes/netstat.md)
