@@ -69,6 +69,7 @@
     * [🍙 Docker](informatique/virtualisation/docker.md)
   * [🍧 Serveur varnish](informatique/serveur-varnish.md)
   * [🦐 HAProxy](informatique/haproxy.md)
+  * [🦓 Zabbix](informatique/zabbix.md)
   * [💡 IaC](informatique/iac.md)
   * [🐼 Puppet](informatique/puppet.md)
   * [🦖 Terraform](informatique/terraform.md)
