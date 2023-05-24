@@ -71,6 +71,7 @@
   * [🦐 HAProxy](informatique/haproxy.md)
   * [💡 IaC](informatique/iac.md)
   * [🐼 Puppet](informatique/puppet.md)
+  * [🦖 Terraform](informatique/terraform.md)
   * [🏈 Ansible](informatique/ansible.md)
 * [🔢 Mathématiques](mathematiques/README.md)
   * [📂 Suites](mathematiques/suites.md)
