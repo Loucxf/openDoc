@@ -1,5 +1,7 @@
 # 🌏 HTTP Server
 
+Script pour l'installation d'un serveur apache : [https://github.com/Loucxf/install\_apache2](https://github.com/Loucxf/install\_apache2)
+
 1. Exécutez la commande suivante pour installer le serveur Apache :
 
 ```
